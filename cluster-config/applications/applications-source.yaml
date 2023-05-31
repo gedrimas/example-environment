@@ -8,4 +8,4 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: ssh://git@github.com/gedrimas/example-environment
+  url: https://github.com/gedrimas/example-environment
