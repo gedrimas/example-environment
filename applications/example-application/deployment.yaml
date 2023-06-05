@@ -14,7 +14,7 @@ spec:
         app: example-application
     spec:
       containers:
-      - image: gedrimas/example-application:v1.0
+      - image: gedrimas/example-application:v1.3
         name: example-application
         ports:
         - containerPort: 8080
